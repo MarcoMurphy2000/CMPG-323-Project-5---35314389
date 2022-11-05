@@ -1,5 +1,4 @@
-# CMPG-323-Project-5---35314389
-# Project 5 - Reporting & Monitoring <br />
+# CMPG 323 Project 5 - Reporting & Monitoring
 
 ## Background <br />
 A Power Bi report is a multi-perspective view into a data model, with visualizations that represent different findings and insights from that data model. A report can have a singe visualization or pages full of visualizations. These visualisations represent data through visuals. They can be used tounderstand the context of data points, map data points together in logical groups, compare data points to one another, enable better decision making. <br /><br />
