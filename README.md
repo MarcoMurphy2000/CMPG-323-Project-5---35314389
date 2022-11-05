@@ -13,7 +13,5 @@ The Device Registration page has the a visual that allows the user to see how ma
 to see how many categories of devices have been created, and a visual that allows the user to see how many zones contain registered devices on a timeline.<br />
 
 
-
-
-* Online Power BI Service where report is published: <br />
+## Online Power BI Service where report is published: <br />
 https://app.powerbi.com/groups/me/reports/46768530-c5b8-4ff4-9bf4-d99dab7cea70/ReportSectionbbb1bf7a981e2d1c7a25
